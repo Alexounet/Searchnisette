@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "673294748410",
+    "firebase_url": "https://searchnisette.firebaseio.com",
+    "project_id": "searchnisette",
+    "storage_bucket": "searchnisette.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673294748410:android:92a16bb12cccc438",
+        "android_client_info": {
+          "package_name": "com.alexb.sanisette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673294748410-9iucg4oh77ehm6g6664eeps98j8mi6ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexb.sanisette",
+            "certificate_hash": "9c1fbd8ea3e872fe8fad5eaea696c96c1b820d3b"
+          }
+        },
+        {
+          "client_id": "673294748410-lv5h1t7lo242p2d7kqaf9vbh9ta13knh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvILVh7uARijoHN11f9ycoEKNNOd4hiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673294748410-lv5h1t7lo242p2d7kqaf9vbh9ta13knh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
