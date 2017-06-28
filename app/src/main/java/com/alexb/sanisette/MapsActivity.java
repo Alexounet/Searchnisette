@@ -1,17 +1,27 @@
 package com.alexb.sanisette;
 
+import android.content.Intent;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.util.Log;
+import android.widget.EditText;
 
+import com.alexb.tools.Geometry;
+import com.alexb.tools.Response;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
@@ -40,10 +50,30 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-
         // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(-34, 151);
-        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        DatabaseReference mDatabase =  FirebaseDatabase.getInstance().getReference();
+        mDatabase.addValueEventListener(new ValueEventListener(){
+            private ArrayList<Response> sanisettes = new ArrayList<>();
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                // This method is called once with the initial value and again
+                // whenever data at this location is updated.
+
+
+                for(DataSnapshot ds : dataSnapshot.getChildren()){
+                    Response sani = ds.getValue(Response.class);
+                    List<Double> coord = sani.geometry.coordinates;
+                    LatLng sanitaire = new LatLng(coord.get(1), coord.get(0));
+                    mMap.addMarker(new MarkerOptions().position(sanitaire).title("Marker in Sani"));
+                }
+
+                mMap.moveCamera(CameraUpdateFactory.newLatLng(new LatLng(0.0,0.0)));
+            }
+
+            @Override
+            public void onCancelled(DatabaseError error) {
+                // Failed to read value
+            }
+        });
     }
 }
