@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\542c3fbde3d394608639bc4e259a5a24e7c192dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_95c098677e8ecfc7f2de1e2f5c6f3efaa2e99d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\b7fd18bc3d0d6855152c8c6bef416ea56b62cbbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_708700c344ee008aabed39b829f7343791ef2ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\9248d2363bf9d56d0206f1e5b617ee15f736c065\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_e3b19ea70c364951013a781782de5a3e4a46893c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_25713eba650242afb3edd4d723bd5199621cd12d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\568f1cdd21551e6d1dd7aa2aba019f874d7673f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_51e29b1f9eda68e5c03f7f508853fff4e79e61ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\658856d77e2a6fd1f3bcc5c6423d1ca56e38c10d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_c32870f6a2593b67404d753d216a7f8a80161145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\bc6bd2ac84e8ec2f394abbaf5a478890c5d624e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_55e2f6ade107cabbc00d4b41de56e44fb54b5489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\2d7d06ea525166984b36c29530acb1f7fb906016\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_c5b13a4b462f5135e0f058b673c34e512b1ea4c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\461a0183b097820e575b13b6a964d20c162a589a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_b8e8dc93fbd2f80701756d95a352bbec1abd3dee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\3dab5c08cb859fb008250de8b460bba03cee87d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_46fcd1b8c9f83e2fbdf5ff23aefdaadbad705bba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\762ca6f0e5b052b915d1a9bd2dec7745fa9d35b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_3f90ce398a963d41d6a0d83d00904ce25818ce40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\a10d1966d2f4bf4a2bf08ba57586d025e4613ed1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_762da382e76dbe6f601ffb2e084530c75c47cb81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\b7f135b881ca3fd1d866250de50995ccff8bad15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_282865ef8f01dc1257a3be79d10e69ae7b17ca20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\b490d7b191d59f1c6016c228b7496acda1ae1637\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_9fefc0f46e7e9465bcbae595aae615f7bda2bc88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\e16e195d53f17875edd8438d658ab364fc176740\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_de6a634b3bf7f18ee86ebb03532cab5077f054e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\578b4e2e4b7febb7cb934d28b03f3dd5b35ba87a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_fe38d56fd37eb6d92b13c4e7c666091506470eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\e6f2a0743cbd08960751742a43d57ff13081d2ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_a6d757ffd5f0d67cb25adf1d409ad36e371d3d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\8c34f79f18ddd544a5b5eaf3bfa667781515389f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_138dde6efed5b8f7c95d48fc21d28a3d6a021214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\279c2c70f6dec54c47fbc799e9db1fe4509b2447\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_708766d9f81f1d3a1e166c5b47bf0577e7a72ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\grammont\.android\build-cache\5170b3bf750b9f6f00c0039232c8df54184ce320\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="Z:\Android\Searchnisette\app\build\intermediates\pre-dexed\debug\classes_46836d6f4fe1f7353f103afefbf6fe94728a7e1f.jar" />
+    </item>
+
+</items>
